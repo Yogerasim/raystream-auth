@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5LGKV2YP8R.Gerasim.StreamGlasses"
+        ],
+        "components": [
+          {
+            "/": "/raystream/*"
+          }
+        ]
+      }
+    ]
+  }
+}
